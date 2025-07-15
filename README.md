@@ -1,6 +1,6 @@
 
 ````markdown
-🗨️ **Realtime Chatting App**
+✨ Full Stack Realtime Chat App ✨
 
 🔗 **Live Demo:** [Click Here to Try It Out!](https://your-live-app-link.com)
 
