@@ -2,7 +2,7 @@
 ````markdown
 ✨ Full Stack Realtime Chat App ✨
 
-🔗 **Live Demo:** [Click Here to Try It Out!](https://chatting-app-lpng.onrender.com/)
+🔗 **Live Demo:** [Click Here to Try It Out!](https://chatting-app-55v8.onrender.com/)
 
 A full-stack real-time chatting application built with modern web technologies. This app allows users to register/login,  
 connect with others, and chat in real-time and message history.  
