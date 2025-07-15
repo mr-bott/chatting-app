@@ -1,11 +1,18 @@
 
-````markdown
-✨ Full Stack Realtime Chat App ✨
+
+✨ **Full Stack Realtime Chat App** ✨
 
 🔗 **Live Demo:** [Click Here to Try It Out!](https://chatting-app-55v8.onrender.com/)
 
-A full-stack real-time chatting application built with modern web technologies. This app allows users to register/login,  
-connect with others, and chat in real-time and message history.  
+📧 **Demo Accounts**  
+• Email: `demo@gmail.com`  
+• Email: `demo2@gmail.com`  
+• Password: `123456`
+````markdown
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+A full-stack real-time chatting application built with modern web technologies.  
+This app allows users to register/login, connect with others, and chat in real-time with message history.  
 Secure, fast, and scalable — perfect for learning and small-scale deployment.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -97,3 +104,5 @@ npm install
 ```bash
 npm run dev
 ```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
