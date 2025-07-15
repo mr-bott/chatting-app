@@ -66,7 +66,7 @@ cd chatting-app
 📦 Install dependencies
 
 ```bash
-cd server
+cd backend
 npm install
 ```
 
@@ -95,7 +95,7 @@ npm start
 📦 Install dependencies
 
 ```bash
-cd client
+cd frontend
 npm install
 ```
 
